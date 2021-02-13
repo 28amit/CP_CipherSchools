@@ -64,4 +64,4 @@ int32_t main() {
 		cout << "No";
 
 }
-//complexity O(n)
+//complexity O(1)
